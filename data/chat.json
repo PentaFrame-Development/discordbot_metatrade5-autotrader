@@ -1,0 +1,12 @@
+{
+    "welcome": "Ciao {?}, benvenuto in **{GN}**. Sentiti pure libero di chiedere qualsiasi cosa (nel canale più opportuno).\n- Se hai problemi tecnici apri un ticket qui :point_right: <#918435931185381407>\n- Se hai problemi generali come pagamenti, registrazioni o quant'altro, apri un ticket qui <#915990416124432435>\n\n__Il core è la ricerca__ cit.",
+    "NO_SUPPORT_CHANNEL": "Per richiedere assistenza esegui il comando ```/ticket``` in un canale di supporto :point_down:\n- **Problemi tecnici** apri un ticket in <#918435931185381407>\n- **Problemi generali** come pagamenti, registrazioni o quant'altro, apri un ticket qui <#915990416124432435>\n\n||Ricordati il cippino su $shib <:shib:912324463150895185> :rocket:||",
+    "TICKET_CREATED_DM": "La tua richiesta è stata presa in considerazione, **Ti scriverò in privato per raccogliere informazioni sul problema.** __Nota che è necessario rispondere per completare la richiesta__\n\nDai comunque un occhiata qui :point_right: <#904474128319385711> nel mentre, potresti trovare informazioni utili.",
+    "TICKET_CREATED": "La tua richiesta è stata presa in considerazione, **Ti scriverò in privato per conferma.** __è necessario rispondere per completare la richiesta__.\n\nDai comunque un occhiata qui :point_right: <#904474128319385711> nel mentre, potresti trovare informazioni utili.",
+    "TICKET_CREATED_TIP": "Dai comunque un occhiata qui :point_right: <#904474128319385711> nel mentre, potresti trovare informazioni utili.",
+    "TICKET_CHANNEL_CREATED": "<@&919641594670501918> Ticket aperto da {?} generato il {t}\nIn seguito il problema :point_down:\n\n**{ct}**\n{c}",
+    "TOO_MANY_REQUEST_FOR_TICKET": "Hai già una richiesta di supporto in corso.\nCompleta la richiesta in DM https://discord.com/channels/@me\nOppure chiudi il ticket aperto in <#919641333101101107> .",
+    "REQUEST_EXECUTED_SUCCESS": ":white_check_mark: ",
+    "REQUEST_EXECUTED_ERROR": ":no_entry: ",
+    "SET_VOLUME_EMPTY": "How am I supposed to change volume without a value?\nPer usare </set_volume:1072153733011603476> devi passare almeno un valore numerico."
+}

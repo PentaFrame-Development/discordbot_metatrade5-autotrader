@@ -1,0 +1,38 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node deploy-commands.js && node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanD4e20/discord-bot.git"
+  },
+  "author": "DylanD420",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanD4e20/discord-bot/issues"
+  },
+  "homepage": "https://github.com/DylanD4e20/discord-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/collection": "^1.3.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "cli-spinners": "^2.7.0",
+    "cors": "^2.8.5",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^14.7.1",
+    "express": "^4.18.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.4.1",
+    "sequelize": "^6.12.0-beta.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.1"
+  }
+}

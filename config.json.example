@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "clientId": "",
+    "guildId": "",
+    "host":"127.0.0.1",
+    "xau_usd_prefix": "XAU_",
+    "blue_forex_prefix": "BF_",
+    "fenix_prefix": "FNX_",
+    "sherlock_prefix": "SHRK_"
+}
